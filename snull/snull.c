@@ -747,9 +747,6 @@ void snull_cleanup(void)
 	return;
 }
 
-
-
-
 int snull_init_module(void)
 {
 	int result, i, ret = -ENOMEM;
